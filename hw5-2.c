@@ -11,17 +11,17 @@ int main()
     if(a<=800)
     {
         c=a*0.9;
-        printf("%.1f",c);
+        printf("%f",c);
     }
     else if(800<a<1500)
     {
         c=a*0.81;
-        printf("%.1f",c);
+        printf("%f",c);
     }
     else if(a>=1500)
     {
         c=a*0.79;
-        printf("%.1f",c);
+        printf("%f",c);
     }
     else
     {
