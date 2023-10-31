@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include <stdlib.h>
 
 int main()
@@ -22,6 +23,7 @@ int main()
         c=a*0.79;
         printf("%.1f",c);
     }
+
 
 
 
