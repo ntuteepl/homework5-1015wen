@@ -20,7 +20,7 @@ int main()
     }
     else if(a>=1500)
     {
-        c=a*0.79;
+        c=a*0.711;
         printf("%.1f",c);
     }
 
